@@ -1,1 +1,5 @@
+This is the first polynomial that i coded, its cool 
+side = 6 since it is a hexagonal, then angles are 360/ 6
+then we are running the loop, 500 times probably where we are drawing the side of length that we defined earlier ( see the code) and make sure that the angles are proper and move right in that angle.
+look at the code you'll understand it in a minute.. also the length is expanding each time we loop , which makes it a beautifull hypnotic pattern.
 
