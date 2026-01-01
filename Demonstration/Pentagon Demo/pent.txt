@@ -1,0 +1,14 @@
+this is the final one, the pentagon
+has the same code, almost just the side is changed 
+i did change the side in the circle code and run it then screenshoted the output not because i'm lazy , because i need to go the washroon and i wanted to finish the task before i go.
+
+so this is it for this repo 
+you can explore more polygon by changing the side variable
+also change the length -= length this will make the sides shrink 
+for this code's explanation. i highly doubt that you need it, if you do.. check out the hexagon code explanation
+
+now copilot will do the documentation and make this repository prensentable
+
+thats a wrap!, for this repo only , probably!
+
+bye!
