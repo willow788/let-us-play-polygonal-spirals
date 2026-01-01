@@ -1,1 +1,7 @@
+triangle and hexagonal code are almost the same just the sides are varying oviously
+but i wrote the code from scratch again, why because i'm a donkey? no because it's good for practicing. 
+check the code in the python code section
+ive attached a screenshot of the output not a screen recording as they take up a large ammount of data to be loaded and my laptop doesn't have much space and i dont have that much patience too.
 
+thnks!
+bye!
